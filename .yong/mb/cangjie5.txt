@@ -1,10 +1,10 @@
 encode=UTF-8
 name=仓颉
-key=abcdefghijklmnopqrstuvwxyz*
-len=5
-wildcard=*
+key=abcdefghijklmnopqrstuvwxyz
+len=6
+wildcard=z
 dwf=1
-commit=1 5 0
+commit=1 6 0
 assist=` mb/pinyin.txt
 [DATA]
 a 日 曰
@@ -9742,7 +9742,7 @@ elmcw 䤔
 elmf 𤄸
 elmi 浊
 elmmf 𥜙
-elmo 洮 溃
+elmo 溃 洮
 elmt 濜
 elmw 𣻲
 elmwl 𩉍
@@ -25575,7 +25575,7 @@ kbmr 痌
 kbmvn 瓻 𤭨
 kbmy 𠁑
 kbnd 𤶖
-kbnl 郗 郁 郩 𨛼
+kbnl 郁 郗 郩 𨛼
 kbnm 𡙞
 kbno 欷 𣣲
 kboae 㬼
@@ -57248,7 +57248,6 @@ vmkni 纨
 vmkok 𤖏
 vmku 妩
 vmkvc 练
-vmkvd 练
 vml 㚦
 vmlbk 𦁾
 vmlii 蠿
@@ -59489,7 +59488,7 @@ xelg 壍
 xelim 灗
 xelll 沜
 xelln 沜
-xelmo 溃
+xelmo 洮
 xembb 灞
 xembi 澪
 xemcw 洒
@@ -59815,7 +59814,7 @@ xk 乂
 xkau 夿
 xkb 冇
 xkbb 奟
-xkbnl 郁
+xkbnl 郗
 xkd 杀
 xkdi 疛
 xkdip 弒
